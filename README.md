@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
 
-- 👋🏻 Hiya, I’m <a href="https://hrugved06.github.io/Portfolio-Hrugved-Kolhe/">Dipanjan</a> ✌🏻 <br/> 
+- 👋🏻 Hiya, I’m <a href="#">Dipanjan</a> ✌🏻 <br/> 
 - 👀 I’m interested in Web Development, DSA, Open Source and Many more 😄<br/>
 - 🌱 Trying to learn new technologies and try to keep myself busy 🤵🏻 <br/>
 - 👨🏻‍💻 Currently exploring Open Source field 📱</br>
