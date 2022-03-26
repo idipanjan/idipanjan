@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://www.javascript.com/">
-<img border="0" alt="JavaScript" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" height="40" width="40"/>
+<img border="0" alt="JavaScript" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" height="50" width="50"/>
 </a>
 
 
