@@ -74,7 +74,11 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://www.java.com/en/">
-<img border="0" alt="JavaScript" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" height="50" width="50"/>
+<img border="0" alt="Java" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" height="50" width="50"/>
+</a>
+
+<a href="https://dotnet.microsoft.com/en-us/">
+<img border="0" alt="dotnet" src="https://upload.wikimedia.org/wikipedia/commons/a/a3/.NET_Logo.svg" height="50" width="50"/>
 </a>
 
 
