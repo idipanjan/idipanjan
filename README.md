@@ -73,6 +73,11 @@ Here are some ideas to get you started:
 <img border="0" alt="JavaScript" src="https://img.icons8.com/color/50/000000/javascript--v1.png"/>
 </a>
 
+<a href="https://www.javascript.com/">
+<img border="0" alt="JavaScript" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png"/>
+</a>
+
+
 
 </br>
 <hr style="height:2px;#8080ffborder-width:0;border-radius: 5px;color:gray;background-color:#8080ff">
