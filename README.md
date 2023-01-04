@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://beta.reactjs.org/">
-<img border="0" alt="React" src="https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png" height="50" width="50"/>
+<img border="0" alt="React" src="https://cdn.cdnlogo.com/logos/r/85/react.svg" height="50" width="50"/>
 </a>
 
 
