@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/dipanjan-maji1999/">
+<a href="https://www.linkedin.com/in/iamdipanjanmaji/">
 <img border="0" alt="Dipanjan Maji" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
 </a>
 
