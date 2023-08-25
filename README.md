@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
 
 - 👋🏻 Hiya, I’m <a href="#">Dipanjan</a> ✌🏻 <br/> 
-- 👀 I’m interested in Web Development, DSA, Open Source and Many more 😄<br/>
+- 👀 I’m interested in Web Development, DevOps, Open Source Contribution and Many more 😄<br/>
 - 🌱 Trying to learn new technologies and try to keep myself busy 🤵🏻 <br/>
-- 👨🏻‍💻 Currently exploring Open Source field 📱</br>
+- 👨🏻‍💻 Currently exploring Devops 📱</br>
 - 💞️ I’m open for collaboration on every interesting project/stuff ✌🏻<br/>
 - 📫 You can contact me through these socials IDs 😁👇🏻  <br/>
 
@@ -58,33 +58,47 @@ Here are some ideas to get you started:
 
 <!------------------- Languages used by me ----------------------->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Programming Languages used in the Project:
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Tech I am learning and Working
 
-
-<a href="https://html.com/#What_is_HTML">
-<img border="0" alt="HTML" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-</a>
-
-<a href="https://en.wikipedia.org/wiki/CSS">
-<img border="0" alt="CSS" src="https://img.icons8.com/color/48/000000/css3.png"/>
-</a>
-
-<a href="https://www.javascript.com/">
-<img border="0" alt="JavaScript" src="https://img.icons8.com/color/50/000000/javascript--v1.png"/>
-</a>
-
-<a href="https://www.java.com/en/">
-<img border="0" alt="Java" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" height="50" width="50"/>
-</a>
-
-<a href="https://beta.reactjs.org/">
-<img border="0" alt="React" src="https://cdn.cdnlogo.com/logos/r/85/react.svg" height="50" width="50"/>
-</a>
-
+<p align="center">
+      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="eastic" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
+</p>
 
 
 </br>
 <hr style="height:2px;#8080ffborder-width:0;border-radius: 5px;color:gray;background-color:#8080ff">
 </br>
 
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=idipanjan&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=idipanjan&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idipanjan&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=idipanjan&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
 ---
