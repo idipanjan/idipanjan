@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 👋🏻 Hiya, I’m <a href="#">Dipanjan</a> ✌🏻 <br/> 
 - 👀 I’m interested in Web Development, DevOps, Open Source Contribution and Many more 😄<br/>
-- 🌱 Trying to learn new technologies and try to keep myself busy 🤵🏻 <br/>
+- 🌱 Learning new technologies and try to keep myself busy 🤵🏻 <br/>
 - 👨🏻‍💻 Currently exploring Devops 📱</br>
 - 💞️ I’m open for collaboration on every interesting project/stuff ✌🏻<br/>
 - 📫 You can contact me through these socials IDs 😁👇🏻  <br/>
